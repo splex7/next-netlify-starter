@@ -1,0 +1,15 @@
+.button.is-white, .file.is-white .file-cta {
+    background-color: #fff;
+    border-color: transparent;
+    color: #0a0a0a;
+}
+.button {
+    border-color: #dbdbdb;
+    border-width: 1px;
+    color: #363636;
+    cursor: pointer;
+    justify-content: center;
+    padding: calc(.5em - 1px) 1em;
+    text-align: center;
+    white-space: nowrap;
+}

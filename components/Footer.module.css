@@ -8,6 +8,9 @@
 }
 
 .logo {
-  height: 3em;
+  height: 2em;
   margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
